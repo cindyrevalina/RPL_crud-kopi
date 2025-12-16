@@ -62,7 +62,8 @@ Menampilkan menu navigasi ke seluruh modul aplikasi.
 2. Halaman Menu Kopi
 Menampilkan daftar menu kopi yang tersedia.
 
-![Menu](ss/menu.png)
+<img width="1338" height="723" alt="image" src="https://github.com/user-attachments/assets/01f8f69f-25f4-4c62-9b8f-a703923beec6" />
+
 
 3. Halaman Pelanggan
 Digunakan untuk mengelola data pelanggan.
