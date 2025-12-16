@@ -84,6 +84,8 @@ Digunakan untuk mencatat pembayaran pesanan.
 
 
 ```
+6. DataBase
+<img width="163" height="146" alt="image" src="https://github.com/user-attachments/assets/29ad5013-3ec5-4ec7-b991-491ad1db8d47" />
 
 ---
 
