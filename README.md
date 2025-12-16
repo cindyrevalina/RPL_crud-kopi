@@ -74,7 +74,8 @@ Digunakan untuk mengelola data pelanggan.
 4. Halaman Pesanan
 Digunakan untuk mencatat pesanan pelanggan.
 
-![Pesanan](ss/pesanan.png)
+<img width="1365" height="577" alt="image" src="https://github.com/user-attachments/assets/b3689e2e-912f-4a58-a8cc-0b32a84d8ac6" />
+
 
 5. Halaman Pembayaran
 Digunakan untuk mencatat pembayaran pesanan.
