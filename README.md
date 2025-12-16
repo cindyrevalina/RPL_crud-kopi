@@ -68,7 +68,8 @@ Menampilkan daftar menu kopi yang tersedia.
 3. Halaman Pelanggan
 Digunakan untuk mengelola data pelanggan.
 
-![Pelanggan](ss/pelanggan.png)
+<img width="1365" height="499" alt="image" src="https://github.com/user-attachments/assets/0f419c2a-6cbf-4b77-af5e-cd91ea64d203" />
+
 
 4. Halaman Pesanan
 Digunakan untuk mencatat pesanan pelanggan.
