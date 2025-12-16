@@ -83,7 +83,6 @@ Digunakan untuk mencatat pembayaran pesanan.
 <img width="1365" height="529" alt="image" src="https://github.com/user-attachments/assets/e194a20b-5a50-47d2-ae16-f97d4b503044" />
 
 
-```
 6. DataBase
 <img width="163" height="146" alt="image" src="https://github.com/user-attachments/assets/29ad5013-3ec5-4ec7-b991-491ad1db8d47" />
 
