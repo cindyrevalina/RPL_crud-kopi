@@ -1,0 +1,90 @@
+# ☕ Aplikasi CRUD Pemesanan Kopi (PHP Native)
+```md
+Aplikasi ini adalah aplikasi CRUD sederhana berbasis PHP dan MySQL
+yang digunakan untuk mengelola data pemesanan kopi.
+Aplikasi dibuat untuk pembelajaran konsep CRUD (Create, Read, Update, Delete)
+dan struktur dasar aplikasi PHP.
+```
+
+---
+
+## Penjelasan Aplikasi
+
+```md
+Aplikasi terdiri dari beberapa modul utama yaitu:
+1. Menu Kopi
+2. Pelanggan
+3. Pesanan
+4. Pembayaran
+
+Setiap modul memiliki halaman untuk menampilkan data dan menambah data baru.
+Struktur tampilan dipisahkan menjadi header, sidebar, dan footer
+agar kode lebih rapi dan mudah dipahami.
+```
+
+---
+
+## Penjelasan Struktur Folder
+
+```md
+assets/        : Menyimpan file CSS
+config/        : File koneksi database
+layout/        : Template tampilan (header, sidebar, footer)
+menu/          : Pengelolaan data menu kopi
+pelanggan/     : Pengelolaan data pelanggan
+pesanan/       : Input data pesanan
+pembayaran/    : Input data pembayaran
+index.php      : Halaman utama / dashboard
+```
+
+---
+
+## Fitur Aplikasi
+
+```md
+- Menampilkan data menu kopi
+- Menambah, mengubah, dan menghapus data pelanggan
+- Mencatat pesanan pelanggan
+- Mencatat pembayaran
+- Tampilan sederhana dan mudah digunakan
+```
+
+---
+
+## Screenshot Aplikasi
+
+```md
+1. Dashboard / Halaman Utama
+Menampilkan menu navigasi ke seluruh modul aplikasi.
+
+![Dashboard](ss/dashboard.png)
+
+2. Halaman Menu Kopi
+Menampilkan daftar menu kopi yang tersedia.
+
+![Menu](ss/menu.png)
+
+3. Halaman Pelanggan
+Digunakan untuk mengelola data pelanggan.
+
+![Pelanggan](ss/pelanggan.png)
+
+4. Halaman Pesanan
+Digunakan untuk mencatat pesanan pelanggan.
+
+![Pesanan](ss/pesanan.png)
+
+5. Halaman Pembayaran
+Digunakan untuk mencatat pembayaran pesanan.
+
+![Pembayaran](ss/pembayaran.png)
+```
+
+---
+
+## Catatan
+
+```md
+Aplikasi ini dibuat sebagai latihan dan tugas pembelajaran
+PHP dan MySQL dengan konsep CRUD.
+```

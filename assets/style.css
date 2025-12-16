@@ -1,0 +1,119 @@
+/* ===== RESET ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ===== BODY ===== */
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background-color: #f3ede7;
+    color: #3e2723;
+}
+
+/* ===== HEADER ===== */
+.header {
+    background: linear-gradient(90deg, #6f4e37, #4e342e);
+    color: #fff;
+    padding: 18px 25px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+/* ===== SIDEBAR ===== */
+.sidebar {
+    width: 210px;
+    height: 100%;
+    position: fixed;
+    background-color: #3e2723;
+    padding: 20px;
+}
+
+.sidebar h3 {
+    color: #ffcc80;
+    margin-bottom: 15px;
+}
+
+.sidebar a {
+    display: block;
+    color: #efebe9;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.sidebar a:hover {
+    background-color: #6f4e37;
+}
+
+/* ===== CONTENT ===== */
+.content {
+    margin-left: 230px;
+    padding: 25px;
+}
+
+/* ===== CARD ===== */
+.card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* ===== TABLE ===== */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    background-color: #fff;
+}
+
+th {
+    background-color: #6f4e37;
+    color: #fff;
+    padding: 12px;
+}
+
+td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+    background-color: #fbe9e7;
+}
+
+/* ===== BUTTON ===== */
+button, .btn {
+    background-color: #6f4e37;
+    color: #fff;
+    border: none;
+    padding: 8px 14px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover, .btn:hover {
+    background-color: #4e342e;
+}
+
+/* ===== FORM ===== */
+input, select {
+    width: 100%;
+    padding: 8px;
+    margin: 8px 0;
+    border-radius: 5px;
+    border: 1px solid #bcaaa4;
+}
+
+/* ===== LINK ACTION ===== */
+.action a {
+    margin-right: 8px;
+    color: #6f4e37;
+    font-weight: 500;
+}
+
+.action a:hover {
+    text-decoration: underline;
+}
