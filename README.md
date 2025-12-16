@@ -80,7 +80,9 @@ Digunakan untuk mencatat pesanan pelanggan.
 5. Halaman Pembayaran
 Digunakan untuk mencatat pembayaran pesanan.
 
-![Pembayaran](ss/pembayaran.png)
+<img width="1365" height="529" alt="image" src="https://github.com/user-attachments/assets/e194a20b-5a50-47d2-ae16-f97d4b503044" />
+
+
 ```
 
 ---
