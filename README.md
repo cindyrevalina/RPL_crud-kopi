@@ -57,7 +57,8 @@ index.php      : Halaman utama / dashboard
 1. Dashboard / Halaman Utama
 Menampilkan menu navigasi ke seluruh modul aplikasi.
 
-![Dashboard](ss/dashboard.png)
+<img width="1365" height="525" alt="image" src="https://github.com/user-attachments/assets/ddd0ca62-68fb-4b3f-993d-1fd639036524" />
+
 
 2. Halaman Menu Kopi
 Menampilkan daftar menu kopi yang tersedia.
