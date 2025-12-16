@@ -53,7 +53,6 @@ index.php      : Halaman utama / dashboard
 
 ## Screenshot Aplikasi
 
-```md
 1. Dashboard / Halaman Utama
 Menampilkan menu navigasi ke seluruh modul aplikasi.
 
